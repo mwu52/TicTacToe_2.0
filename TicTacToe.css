@@ -1,0 +1,12 @@
+.cell{
+    border: 5px solid;
+    height: 100px;
+    width: 100px;
+}
+
+.board{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
