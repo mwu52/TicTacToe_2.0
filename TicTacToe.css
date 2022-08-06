@@ -10,3 +10,8 @@
     justify-content: center;
 }
 
+.message{
+    display: flex;
+    justify-content: center;
+}
+
